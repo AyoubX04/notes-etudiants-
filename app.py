@@ -30,9 +30,10 @@ def accueil():
         "<p><a href='/notes'>Voir les notes</a></p></body></html>"
     )
 # Indique que le service des notes est disponible
+# Indique que le service des notes est disponible
 @app.route("/health")
 def health():
-    return jsonify(status="ok")
+    return jsonify(status="ok", version="1.0")
 # Consultation des notes
 @app.route("/notes")
 def lister_notes():
