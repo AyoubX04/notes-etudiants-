@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-02-01",
+  "summary": {
+    "title": "Application des notes",
+    "owner": "ayoub",
+    "description": "x",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagra",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Flux de données "
+      }
+    ],
+    "diagramTop": 3,
+    "reviewer": "x",
+    "threatTop": 0
+  }
+}
